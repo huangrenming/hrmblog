@@ -1,0 +1,21 @@
+{
+  "name": "hrmblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "huangrenmming <935820198@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/huangrenming/hrmblog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
